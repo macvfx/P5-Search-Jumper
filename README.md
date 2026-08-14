@@ -39,6 +39,12 @@ The app talks to both products through their local REST APIs:
 It also includes:
 
 - **Menu bar search** — a quick-search popover you can use from anywhere.
+- **Metadata filters** — narrow visual or transcript results by media kind,
+  resolution, codec, camera, duration, and more.
+- **Clip preview** — click a result (or press space) to play the source file
+  from the exact matched frame; still images open in a viewer.
+- **Result control** — choose how many top matches each file shows, and
+  collapse duplicate/copy files to their best container.
 - **Inventory** — check a folder against the Jumper cache and see which files are
   already analyzed or archived.
 - **History** — an audit trail of every restore.
