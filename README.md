@@ -70,3 +70,9 @@ Ready-to-run builds are distributed as disk images (`.dmg`) on the
 P5 Search Jumper is an independent utility and is not affiliated with, endorsed
 by, or sponsored by Jumper or Archiware. Jumper and Archiware P5 are trademarks of
 their respective owners.
+
+## License
+
+Free to use for your own business or work, including on client jobs. You may not sell,
+redistribute or sublicense the software. The terms are the
+[PolyForm Internal Use License 1.0.0](LICENSE).
